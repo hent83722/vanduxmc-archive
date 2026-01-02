@@ -1,0 +1,6 @@
+*.tar.zst
+*.part.*
+world/
+world_nether/
+world_the_end/
+
